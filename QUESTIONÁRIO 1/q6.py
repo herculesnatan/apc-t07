@@ -1,0 +1,5 @@
+sujeito = input()
+objeto = input()
+verbo = input()
+frase = f"%s %s %s." %(sujeito, verbo, objeto)
+print(frase)
