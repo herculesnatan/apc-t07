@@ -11,12 +11,12 @@ else:
 print(f'{indice}')  
 
 if ( percentCliCancel >= 10):
-    if (canceladoPorProblema==1):
+    if (canceladoPorProblema ==1):
         indice = indice + 80
     else:
         indice = indice - 30
 else:
-    if (canceladoPorProblema==1):
+    if (canceladoPorProblema == 1):
         indice = indice + 50
     else:
         indice = indice - 10
