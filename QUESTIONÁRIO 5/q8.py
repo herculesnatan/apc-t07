@@ -12,5 +12,4 @@ Agora só falta aprender a fazer loop!
 """%(n, n-1)
     print(patinho_perdido)
 
-estrofe(9)
 
